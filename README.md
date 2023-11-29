@@ -34,6 +34,7 @@
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt=Firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <br/>
+<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhatIsFun&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatIsFun&layout=compact&theme=radical)
