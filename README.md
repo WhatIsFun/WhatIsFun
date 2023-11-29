@@ -24,10 +24,6 @@
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatIsFun&layout=compact&theme=radical)
-
-<br/>
-
 <!--## Database:
 <img align="left" alt="MS SQL server" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlsever/sqlite-original.svg" />
 <br/>-->
@@ -42,5 +38,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhatIsFun&theme=radical)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatIsFun&layout=compact&theme=radical)
 
