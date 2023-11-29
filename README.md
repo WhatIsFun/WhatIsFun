@@ -22,6 +22,8 @@
 <img align="left" alt="HTML" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt="CSS" width="30px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatIsFun&layout=compact&theme=radical)
 <br/>
 
 <!--## Database:
@@ -35,7 +37,8 @@
 <img align="left" alt=Firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <br/>
 <br/>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhatIsFun&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatIsFun&layout=compact&theme=radical)
+
 
