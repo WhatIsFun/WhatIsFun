@@ -24,9 +24,9 @@
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <br/>
 
-## Database:
+<!--## Database:
 <img align="left" alt="MS SQL server" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlsever/sqlite-original.svg" />
-<br/>
+<br/>-->
 
 ## Frameworks & Tools:
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
